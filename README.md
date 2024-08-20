@@ -96,6 +96,20 @@ For more information on mutual funds, visit [Mutual Funds Sahi Hai](https://www.
    - **Purpose:** Regulatory information and investor protection.
    - **Features:** Regulations, circulars, investor education, and grievance redressal.
 
+
+## Miconceptions
+### 1. What if I lose all my money
+   Ans: suppose you invest 5000 in a largecap stock(something like reliance, tcs, etc), a super stable stock with decent historical returns etc etc, even in the case of a market crash, the most you'd lose is 10%, 20% if a world war starts, which is a maximum of 1000, but again, thats worst worst case so we'll take 500 as an average. With all due respect to however you spend your money, you can probably forego eating out once to do this, theres a higher chance you make 500 than you lose 500, and feel free to call me for a drink when you do so!
+
+### 2. What are all these other things apart from stocks such as commodities, forex etc etc
+   Ans: commodities is where you trade literal commodities like crude oil, gold, silver etc etc, it has the advantage of having a much higher participation from investors but that also means its super volatile, one big news can wipe out a decent chunk of your net worth. I would recommend venturing into these areas once you're decently profitable in the equity market. The analysis of gold is super interesting based on stock market and news trends, check it out here https://www.youtube.com/watch?v=P1K_FOe7Z9I
+
+   
+### 3. What is quant and whats the hype around it
+   Ans: Quant finance is High Frequency trading. It involves strategizing, writing code to execute trades on your behalf, servers and well, mainly, a shit ton of money.  you're aiming to capture 0.1-0.2 rupee differences in the span of milliseconds. You can refer to this github to know what you should know in this field. You can always reach out to your seniors on linkedin for knowing how to enter this field. Do note that mostly CS 9+ are taken from top 5 IITs and Pilani Campus(1-2 hires for every company, so you gotta be at the top of your field). The hype? you also earn a shit ton of money lol.
+
+https://github.com/wilsonfreitas/awesome-quant
+
 ---
 
 **Disclaimer:** These are personal suggestions for resources and learning. If you find anything misleading or incorrect, feel free to modify it.
