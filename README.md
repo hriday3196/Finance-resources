@@ -18,6 +18,11 @@ Once you're done with the basics, move on to learning how to read charts:
 
 1. [Chart Reading Playlist](https://www.youtube.com/watch?v=sAXJJ5zOCMw&list=PLT6_Bt_TKitLs84l0Mv_iCVKITN95AbL_)
 
+
+
+### Fundamental Analysis
+1. [Fundamental Analysis Playlist, watch all](https://www.youtube.com/watch?v=0y56doOvQ9g&list=PL8uhW8cclMiOFY9hUCP7uROKCLkIMQ1tI)
+
 ### Advanced Resources
 
 After getting comfortable with the basics, dive into [Zerodha Varsity](https://zerodha.com/varsity/), the holy grail of investing resources. Download all the modules, merge the notebooks, and read 10 pages every night—that’s what I did!
