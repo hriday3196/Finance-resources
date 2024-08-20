@@ -102,7 +102,7 @@ For more information on mutual funds, visit [Mutual Funds Sahi Hai](https://www.
    - **Features:** Regulations, circulars, investor education, and grievance redressal.
 
 
-## Miconceptions
+## Miconceptions & Other questions(I'll keep expanding this as people ask questions)
 ### 1. What if I lose all my money
    Ans: suppose you invest 5000 in a largecap stock(something like reliance, tcs, etc), a super stable stock with decent historical returns etc etc, even in the case of a market crash, the most you'd lose is 10%, 20% if a world war starts, which is a maximum of 1000, but again, thats worst worst case so we'll take 500 as an average. With all due respect to however you spend your money, you can probably forego eating out once to do this, theres a higher chance you make 500 than you lose 500, and feel free to call me for a drink when you do so!
 
